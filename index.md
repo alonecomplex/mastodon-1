@@ -31,7 +31,7 @@
 |[CreamPuff88@mastodon.xyz](https://mastodon.xyz/@CreamPuff88)|suspended|2019-07-01 22:38|spammer|该账号已被 mastodon.xyz 实例注销|
 |[MySexyGirlsPics@humblr.social](https://humblr.social/@MySexyGirlsPics)|silence|2019-07-10 19:48|NSFW内容不加CW||
 |[GujoMein@mastodon.social](https://mastodon.social/@GujoMein)|suspended|2019-07-12 20:07|spammer||
-|[justoneshotinthedark@humblr.social](https://pawoo.net/@AriaLAnna69)|suspended|2019-07-23 11:51|NSFW内容未加CW||
+|[justoneshotinthedark@humblr.social](https://pawoo.net/@AriaLAnna69)|silence|2019-07-23 11:51|NSFW内容未加CW||
 |[AriaLAnna69@pawoo.net](https://pawoo.net/@AriaLAnna69)|suspended|2019-09-20 17:58|spammer||
 |[sayuki90@qiitadon.com](https://qiitadon.com/@sayuki90)|suspended|2019-09-20 17:58|spammer||
 |[Hanakooo31@pawoo.net](https://pawoo.net/@Hanakooo31)|suspended|2019-09-22 20:52|spammer||
